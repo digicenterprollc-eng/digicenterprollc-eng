@@ -26,7 +26,9 @@ Développeur JavaScript full-stack (et Python), créateur de WhatssAI, ChronoWor
 
 ## Stack
 
-JavaScript · TypeScript · Python · Node.js · React · Next.js · PostgreSQL · Redis · n8n · Playwright · Docker · nginx · Cloudflare
+**Langages** : TypeScript · JavaScript · Python · SQL (PL/pgSQL) · HTML / CSS · Shell
+
+**Frameworks et outils** : Node.js · React · Next.js · PostgreSQL · Redis · n8n · Playwright · Docker · nginx · Cloudflare
 
 Vibe coding encadré avec Claude Code : spécifications écrites avant le code, tests, et relecture de chaque livraison.
 
