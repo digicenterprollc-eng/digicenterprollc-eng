@@ -4,9 +4,9 @@
 
 **Je construis des systèmes qui automatisent votre entreprise et travaillent pour vous 24h/24.**
 
-Développeur JavaScript full-stack (et Python), créateur de WhatssAI, ChronoWork et BorneChef. Plus de 120 clients accompagnés.
+Développeur JavaScript full-stack (et Python), créateur de WhatssAI et ChronoWork. Plus de 120 clients accompagnés et plus de 50 projets réalisés pour des entreprises.
 
-[merzag.com](https://merzag.com) · [contact@merzag.com](mailto:contact@merzag.com) · [Instagram](https://www.instagram.com/el_mahdi_merzag/)
+[merzag.com](https://merzag.com) · [contact@merzag.com](mailto:contact@merzag.com) · [Instagram](https://www.instagram.com/el_mahdi_merzag/) · [X](https://x.com/elmahdimerzag) · [LinkedIn](https://www.linkedin.com/in/elmahdimerzag/)
 
 ## Ce que je construis
 
@@ -22,7 +22,6 @@ Développeur JavaScript full-stack (et Python), créateur de WhatssAI, ChronoWor
 | --- | --- |
 | [WhatssAI](https://whatssai.com) | Plateforme d'agents IA pour commerçants : messagerie, boutique en ligne, relances, factures, serveur MCP. |
 | [ChronoWork](https://chronowork.pro) | Pointage et gestion des employés pour les restaurants, sur le web et sur mobile. |
-| [BorneChef](https://bornechef.com) | Système de commande pour les restaurants : le client commande sur la borne, la commande part en cuisine. |
 
 ## Stack
 
